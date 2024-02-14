@@ -26,11 +26,6 @@ function solve_pdptw(num_requests)
 end
 
 
-println(solve_pdptw(13))
-println(solve_pdptw(14))
-println(solve_pdptw(15))
-
-
 # solve_pdptw(8) Elapsed time: 6.328393262 seconds
 # solve_pdptw(9) Elapsed time: 6.854134493 seconds
 # solve_pdptw(10) Elapsed time: 685.465225119 seconds
