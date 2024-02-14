@@ -1,2 +1,2 @@
 # PDPTW forward DP
-Solve a Single Vehicle Pickup and Delivery problem with time window using forward dynamic programming. 
+Solve a single vehicle Pickup and Delivery problem with Time Window using forward dynamic programming. 
